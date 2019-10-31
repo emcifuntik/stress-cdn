@@ -1,1 +1,1 @@
-{"files":[{"hash":"2107d266f579d195","name":"spawn"},{"hash":"403ab9686f362fbd","name":"editor"},{"hash":"99d173f9ff7081cd","name":"datanode-logger"},{"hash":"6972e62631a66e45","name":"noclip"}]}
+{"host": "127.0.0.1", "port": "7788", "files":[{"hash":"2107d266f579d195","name":"spawn"},{"hash":"403ab9686f362fbd","name":"editor"},{"hash":"99d173f9ff7081cd","name":"datanode-logger"},{"hash":"6972e62631a66e45","name":"noclip"}]}
